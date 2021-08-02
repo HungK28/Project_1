@@ -42,7 +42,8 @@ The following bar diagram shows that the traditional big banks were the biggest 
 Positive strong correlation (=0.72) between size of the loan and number of employees on the payroll. This can suggest that the size of the loan is determined on the employee count.
 
 
-![image](https://user-images.githubusercontent.com/85582682/127911391-8f8747d8-9d43-4b08-bcfc-6e65215f8807.png)
+![image](https://user-images.githubusercontent.com/85582682/127915303-3b7e2aa3-6d6c-4d10-9b37-8a3e8a4e93c7.png)
+
 
 5.	What is the geographical distribution of the loans made? Which county got the most loan?
     Analysis Breakdown
