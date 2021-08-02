@@ -18,7 +18,8 @@ Total Amount of Loans ($B): $103B. Total Loan Count: 1.3 Million. The following 
 
 ![image](https://user-images.githubusercontent.com/85582682/127919032-8bb820ff-7aa2-416d-96ba-297d9cb61a4d.png)
 
-![image](https://user-images.githubusercontent.com/85582682/127919151-764b997b-02c1-42ab-a26a-c7950ae2586c.png)
+![image](https://user-images.githubusercontent.com/85582682/127919151-764b997b-02c1-42ab-a26a-c7950ae2586c.png) ![image](https://user-images.githubusercontent.com/85582682/127919277-4687195b-fff0-4192-974a-309bfa77d84f.png)
+
 
 
     
