@@ -18,8 +18,6 @@ Since the loans were funded through the SBA, the loan information has been made 
 The dataset included NAICS code for each small business that got a loan. The North American Industry Classification System or NAICS is a classification of business establishments by type of economic activity (process of production). It is used by government and business in Canada, Mexico, and the United States of America. From the NAICS codes we could come up with the industry-wide loan distribution. Service industries got more loans compared to manufacturing.
 
 ![image](https://user-images.githubusercontent.com/85582682/127909938-75e675ba-838d-43bc-8839-adff0f1b8ea8.png)
-![image](https://user-images.githubusercontent.com/85582682/127910406-a78cc21b-0f52-4d88-bd96-3e3129c7a41c.png)
-
 
 
 
