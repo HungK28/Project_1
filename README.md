@@ -25,6 +25,9 @@ The dataset included NAICS code for each small business that got a loan. The Nor
 
 ![image](https://user-images.githubusercontent.com/85582682/127909938-75e675ba-838d-43bc-8839-adff0f1b8ea8.png)
 
+![image](https://user-images.githubusercontent.com/85582682/127914191-0b5f4e7a-3d56-4a81-b8d1-62953a358d36.png)
+
+
 
 
 3.	Which banks provided most of the loans?
