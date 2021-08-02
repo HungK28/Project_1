@@ -1,8 +1,6 @@
 # Paycheck Protection Program (PPP) in California
 
 ![image](https://user-images.githubusercontent.com/85582682/127910899-ce4e3f31-3918-4587-9ebd-f1af30a6a789.png)  
-![image](https://user-images.githubusercontent.com/85582682/127910953-795baa55-030b-43a3-9fd4-760d43d02aec.png)
-
 
 The Paycheck Protection Program (PPP) is an SBA-backed loan program that helped businesses keep their workforce employed during the COVID-19 crisis.  The PPP was implemented in April 2020 to provide relief to small businesses that were impacted by the coronavirus by providing 2.5 months of a company's average payroll that would be 100% forgivable if funds were used to retain employees. In January 2021, a second round of relief (PPS) was offered with stricter criteria including proof of a
 25% revenue reduction in at least one quarter of 2020 compared to the prior year.
