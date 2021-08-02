@@ -34,13 +34,13 @@ The dataset included NAICS code for each small business that got a loan. The Nor
 
 
 
-3.	Which banks provided most of the loans?
+## 3.	Which banks provided most of the loans?
 
 The following bar diagram shows that the traditional big banks were the biggest lenders in this case too.
 
 ![image](https://user-images.githubusercontent.com/85582682/127910562-5a01326c-2168-415c-b3a1-cf880c8fc575.png)
 
-4.	What is the relationship between size of the loan and number of employees on the payroll?
+## 4.	What is the relationship between size of the loan and number of employees on the payroll?
 
 Positive strong correlation (=0.72) between size of the loan and number of employees on the payroll. This can suggest that the size of the loan is determined on the employee count.
 
@@ -48,7 +48,7 @@ Positive strong correlation (=0.72) between size of the loan and number of emplo
 ![image](https://user-images.githubusercontent.com/85582682/127915303-3b7e2aa3-6d6c-4d10-9b37-8a3e8a4e93c7.png)
 
 
-5.	What is the geographical distribution of the loans made? Which county got the most loan?
+## 5.	What is the geographical distribution of the loans made? Which county got the most loan?
     Analysis Breakdown
     
 ● Grouped data set by counties
@@ -72,7 +72,7 @@ Results
 
 
 
-6.	Did business-owners of a particular race/ethnicity get more loans? If yes, is it statistically significant?
+## 6.	Did business-owners of a particular race/ethnicity get more loans? If yes, is it statistically significant?
 
 We used a Student’s T-test to answer the questions. Please see the folder Alex for the codes. The results of the test are as follows.
 
@@ -87,7 +87,7 @@ We used a Student’s T-test to answer the questions. Please see the folder Alex
 
 ![image](https://user-images.githubusercontent.com/85582682/127915126-205c1b92-c219-4ce9-9685-3f7404c66774.png)
 
-Summary:
+## Summary:
 
 ● For 74% of the small business, the first round of government backed loans was enough to keep the business from having a 25% reduction in revenue in 2020 compared to prior year.
 
