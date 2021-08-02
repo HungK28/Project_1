@@ -9,7 +9,8 @@ Since the loans were funded through the SBA, the loan information has been made 
     Total Amount of Loans ($B): $103B. Total Loan Count: 1.3 Million
     
     ![image](https://user-images.githubusercontent.com/85582682/127909196-ff7d5d5d-e735-41c1-ab24-afd3668d37c6.png)
-    ![image](https://user-images.githubusercontent.com/85582682/127909578-1fa66181-f77a-49f3-ae6d-f1796709416b.png)
+  ![image](https://user-images.githubusercontent.com/85582682/127910063-13dde950-06f7-4778-9f85-39f8fe9537b7.png)
+
 
 
 2.	What is the industry-wide distribution of the loans? Which industries got more loans?
