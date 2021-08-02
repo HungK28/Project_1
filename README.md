@@ -12,13 +12,12 @@ Since the loans were funded through the SBA, the loan information has been made 
 
 
 
-
-
-
-
 ## 1. What is the total count and total amount of loans disbursed? 
     
 Total Amount of Loans ($B): $103B. Total Loan Count: 1.3 Million. The following table, bar diagram, and the pie chart provide more information on the distribution of the total loans by the two types: PPP and PPS.
+
+![image](https://user-images.githubusercontent.com/85582682/127919032-8bb820ff-7aa2-416d-96ba-297d9cb61a4d.png)
+
     
     
     
