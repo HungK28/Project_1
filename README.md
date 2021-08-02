@@ -21,7 +21,10 @@ The dataset included NAICS code for each small business that got a loan. The Nor
 
 
 
-4.	Which banks provided most of the loans?
+3.	Which banks provided most of the loans?
+
+![image](https://user-images.githubusercontent.com/85582682/127910562-5a01326c-2168-415c-b3a1-cf880c8fc575.png)
+
 5.	What is the relationship between size of the loan and number of employees on the payroll?
 6.	What is the geographical distribution of the loans made? Which county got the most loan?
 7.	Did business-owners of a particular race/ethnicity get more loans? If yes, is it statistically significant?
