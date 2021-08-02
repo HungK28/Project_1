@@ -23,6 +23,8 @@ The dataset included NAICS code for each small business that got a loan. The Nor
 
 3.	Which banks provided most of the loans?
 
+The following bar diagram shows that the traditional big banks were the biggest lenders in this case too.
+
 ![image](https://user-images.githubusercontent.com/85582682/127910562-5a01326c-2168-415c-b3a1-cf880c8fc575.png)
 
 5.	What is the relationship between size of the loan and number of employees on the payroll?
