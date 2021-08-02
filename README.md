@@ -14,7 +14,7 @@ Since the loans were funded through the SBA, the loan information has been made 
     
     
     
-    Total Amount of Loans ($B): $103B. Total Loan Count: 1.3 Million.
+    Total Amount of Loans ($B): $103B. Total Loan Count: 1.3 Million. The following table, bar diagram, and the pie chart provide more information on the distribution of the total loans by the two types: PPP and PPS.
     
     ![image](https://user-images.githubusercontent.com/85582682/127918069-016cd9a2-6397-4d6f-a15a-8ad8beeb0598.png)
 
