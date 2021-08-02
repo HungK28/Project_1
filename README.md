@@ -54,6 +54,9 @@ Results
 
 ● Loan amounts per capita showed more concentration in counties surrounding the bay area.
 
-● More rural counties seemed to have lower loan amounts per capita
+● More rural counties seemed to have lower loan amounts per capita.
+
+![image](https://user-images.githubusercontent.com/85582682/127912227-61c454a4-dbf3-4d93-a51e-1be8700a0e09.png)
+
 7.	Did business-owners of a particular race/ethnicity get more loans? If yes, is it statistically significant?
 
