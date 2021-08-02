@@ -9,7 +9,7 @@ Since the loans were funded through the SBA, the loan information has been made 
     Total Amount of Loans ($B): $103B. Total Loan Count: 1.3 Million
     
     ![image](https://user-images.githubusercontent.com/85582682/127909196-ff7d5d5d-e735-41c1-ab24-afd3668d37c6.png)
-  ![image](https://user-images.githubusercontent.com/85582682/127910063-13dde950-06f7-4778-9f85-39f8fe9537b7.png)
+    ![image](https://user-images.githubusercontent.com/85582682/127910246-d23dad61-219b-4926-8763-cd6033dc1df9.png)
 
 
 
