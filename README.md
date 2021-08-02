@@ -1,5 +1,5 @@
-# Project_1
-The Paycheck Protection Program (PPP) is an SBA-backed loan program that helped businesses keep their workforce employed during the COVID-19 crisis. In our project, we are trying to analyze the publicly available PPP loan-disbursement data for California and get a birds-eye view of the program. The analysis would shed light on the small businesses in California that got access to these disbursed loans to counteract the economic impact of the pandemic.  To be specific, we are planning to answer the following questions:
+# Paycheck Protection Program (PPP) in California
+The Paycheck Protection Program (PPP) is an SBA-backed loan program that helped businesses keep their workforce employed during the COVID-19 crisis. In this project, we tried to analyze the publicly available PPP loan-disbursement data for California and get a birds-eye view of the program. The analysis sheds light on the small businesses in California that got access to these disbursed loans to counteract the economic impact of the pandemic.  To be specific, we tried to answer the following questions:
 1.	What is the total count of loans disbursed? What is the total amount of loans disbursed?
 2.	What is the industry-wide distribution of the loans? Which industries got more loans?
 3.	Which banks provided most of the loans?
