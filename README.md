@@ -5,6 +5,9 @@
 The Paycheck Protection Program (PPP) is an SBA-backed loan program that helped businesses keep their workforce employed during the COVID-19 crisis.  The PPP was implemented in April 2020 to provide relief to small businesses that were impacted by the coronavirus by providing 2.5 months of a company's average payroll that would be 100% forgivable if funds were used to retain employees. In January 2021, a second round of relief (PPS) was offered with stricter criteria including proof of a
 25% revenue reduction in at least one quarter of 2020 compared to the prior year.
 
+![image](https://user-images.githubusercontent.com/85582682/127912511-68f90680-9453-437d-99ea-44a5634b4224.png)
+
+
 Since the loans were funded through the SBA, the loan information has been made publicly available. Our data set includes the all the PPP loans that were funded in California for both PPP and PPS. In this project, we tried to analyze the publicly available PPP loan-disbursement data for California and get a birds-eye view of the program. The analysis sheds light on the small businesses in California that got access to these disbursed loans to counteract the economic impact of the pandemic.  To be specific, we tried to answer the following questions:
 
 1.	What is the total count and total amount of loans disbursed? 
@@ -61,5 +64,5 @@ Results
 ![image](https://user-images.githubusercontent.com/85582682/127912348-78f0b6cc-6bc1-4ab6-a028-f33cb218af7a.png)
 
 
-7.	Did business-owners of a particular race/ethnicity get more loans? If yes, is it statistically significant?
+6.	Did business-owners of a particular race/ethnicity get more loans? If yes, is it statistically significant?
 
