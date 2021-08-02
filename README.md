@@ -81,6 +81,6 @@ We used a Student’s T-test to answer the questions. Please see the folder Alex
 ![image](https://user-images.githubusercontent.com/85582682/127913227-4ad537ef-4af7-4fc0-b3f2-b3cd2c24fee6.png)
 
 
-![image](https://user-images.githubusercontent.com/85582682/127913198-8579dc22-b12a-4921-a658-51e6ce37d5e7.png)
+![image](https://user-images.githubusercontent.com/85582682/127915126-205c1b92-c219-4ce9-9685-3f7404c66774.png)
 
 
