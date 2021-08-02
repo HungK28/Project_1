@@ -13,7 +13,7 @@ Since the loans were funded through the SBA, the loan information has been made 
 
 
 
-## 1. What is the total count and total amount of loans disbursed? 
+**1. What is the total count and total amount of loans disbursed? **
     
     
     
