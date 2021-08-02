@@ -37,6 +37,23 @@ Positive strong correlation (=0.72) between size of the loan and number of emplo
 
 ![image](https://user-images.githubusercontent.com/85582682/127911391-8f8747d8-9d43-4b08-bcfc-6e65215f8807.png)
 
-6.	What is the geographical distribution of the loans made? Which county got the most loan?
+5.	What is the geographical distribution of the loans made? Which county got the most loan?
+    Analysis Breakdown
+    
+● Grouped data set by counties
+
+● Broke out loans by PPP and PPS
+
+● Compared total loan amounts by counties 
+
+● Compared total loan amounts per the counties population
+
+Results
+
+● Total loan amounts for both PPP and PPS seemed consistent with population size.
+
+● Loan amounts per capita showed more concentration in counties surrounding the bay area.
+
+● More rural counties seemed to have lower loan amounts per capita
 7.	Did business-owners of a particular race/ethnicity get more loans? If yes, is it statistically significant?
 
