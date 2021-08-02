@@ -84,4 +84,16 @@ We used a Student’s T-test to answer the questions. Please see the folder Alex
 
 ![image](https://user-images.githubusercontent.com/85582682/127915126-205c1b92-c219-4ce9-9685-3f7404c66774.png)
 
+Summary
+● For 74% of the small business, the first round of government backed loans was enough to keep the business from having a 25% reduction in revenue in 2020 compared to prior year.
+
+● Bank of America, JP Morgan Chase and Wells Fargo had the most presence in facilitating loans in California measured both by dollar value and loan counts.
+
+● The data suggests that the number of employees does influence the loan amount.
+
+● White-owned small businesses benefited the most in comparison with other ethnicities.
+
+● The service industry needed more loans compared to manufacturing. The top 5 service industries accounted for more than 53% of the total loan counts.
+
+● Counties clustered around the Bay area received the most loans per capita for both PPP and PPS
 
