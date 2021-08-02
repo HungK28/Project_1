@@ -66,3 +66,11 @@ Results
 
 6.	Did business-owners of a particular race/ethnicity get more loans? If yes, is it statistically significant?
 
+We used a Student’s T-test to answer the questions. Please see the folder Alex for the codes. The results of the test are as follows.
+
+● Multi-group is not statistically different from any group(p>0.05) except white.
+
+● White group is statistically different from all groups(p<0.05).
+
+● White-owned small businesses benefited the most from PPP
+
