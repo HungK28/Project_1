@@ -10,7 +10,7 @@ The Paycheck Protection Program (PPP) is an SBA-backed loan program that helped 
 
 Since the loans were funded through the SBA, the loan information has been made publicly available. Our data set includes the all the PPP loans that were funded in California for both PPP and PPS. In this project, we tried to analyze the publicly available PPP loan-disbursement data for California and get a birds-eye view of the program. The analysis sheds light on the small businesses in California that got access to these disbursed loans to counteract the economic impact of the pandemic.  To be specific, we tried to answer the following questions:
 
-# 1.	What is the total count and total amount of loans disbursed? 
+## 1.	What is the total count and total amount of loans disbursed? 
     
     Total Amount of Loans ($B): $103B. Total Loan Count: 1.3 Million
     
@@ -19,7 +19,7 @@ Since the loans were funded through the SBA, the loan information has been made 
 
 
 
-# 2.	What is the industry-wide distribution of the loans? Which industries got more loans?
+## 2.	What is the industry-wide distribution of the loans? Which industries got more loans?
 
 The dataset included NAICS code for each small business that got a loan. The North American Industry Classification System or NAICS is a classification of business establishments by type of economic activity (process of production). It is used by government and business in Canada, Mexico, and the United States of America. From the NAICS codes we could come up with the industry-wide loan distribution. Service industries got more loans compared to manufacturing.
 
