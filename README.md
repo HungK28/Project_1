@@ -112,9 +112,12 @@ We used a Student’s T-test to answer the questions. Please see the folder Alex
 ● Counties clustered around the Bay area received the most loans per capita for both PPP and PPS
 
 ## Codes
-For answer to question 1 of this project please go to: Project_1/project_1_Kevin_1_adn_3.ipynb at main · HungK28/Project_1
+For answers to questions 1 and 3 of this project please go to folder Kevin and then project_1_Kevin_1_adn_3.ipynb 
 
 For answer to question 2 of this project please go to folder Andalib and then indusry_wide_distribution_code.ipynb
 
+For answers to questions 4  and 6 of this project please go to folder Alex and then Statistical Question 4.ipynb and Statistical Question 6.ipynb
+
+For answer to question 5 of this project please go to folder Sean and then Geographic_Data.ipynb
 
 
