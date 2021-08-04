@@ -75,6 +75,8 @@ Results
 
 ● More rural counties seemed to have lower loan amounts per capita.
 
+The results are presented with the following two diagrams.
+
 ![image](https://user-images.githubusercontent.com/85582682/127912227-61c454a4-dbf3-4d93-a51e-1be8700a0e09.png)  ![image](https://user-images.githubusercontent.com/85582682/127912348-78f0b6cc-6bc1-4ab6-a028-f33cb218af7a.png)
 
 
