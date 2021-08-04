@@ -113,7 +113,7 @@ We used a Student’s T-test to answer the questions. Please see the folder Alex
 
 ## Codes
 
-For answer to question 2 of this project please go to folder Andalib and then indusry_wide_distribution_code.ipynb
+For answer to question 2 of this project please go to folder ../Andalib and then indusry_wide_distribution_code.ipynb
 
 
 
