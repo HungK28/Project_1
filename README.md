@@ -55,6 +55,7 @@ Positive strong correlation (=0.72) between size of the loan and number of emplo
 
 
 ## 5.	What is the geographical distribution of the loans made? Which county got the most loan?
+    
     Analysis Breakdown
     
 ● Grouped data set by counties
