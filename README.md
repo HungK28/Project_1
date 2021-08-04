@@ -29,7 +29,7 @@ Total Amount of Loans ($B): $103B. Total Loan Count: 1.3 Million. The following 
 
 ## 2.	What is the industry-wide distribution of the loans? Which industries got more loans?
 
-The dataset included NAICS code for each small business that got a loan. The North American Industry Classification System or NAICS is a classification of business establishments by type of economic activity (process of production). It is used by government and business in Canada, Mexico, and the United States of America. From the NAICS codes we could come up with the industry-wide loan distribution. Service industries got more loans compared to manufacturing.
+The dataset included NAICS code for each small business that got a loan. The North American Industry Classification System or NAICS is a classification of business establishments by type of economic activity (process of production). It is used by government and business in Canada, Mexico, and the United States of America. From the NAICS codes we could come up with the industry-wide loan distribution. From the table we can see that service industries got more loans compared to manufacturing.
 
 ![image](https://user-images.githubusercontent.com/85582682/127909938-75e675ba-838d-43bc-8839-adff0f1b8ea8.png)
 
